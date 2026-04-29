@@ -1,4 +1,4 @@
-# MyVisualNovelTranslPatch
+# MyVisualNovelTransPatchesMeta
 
 Static update manifests for visual novel translation patches.
 
@@ -14,7 +14,7 @@ Each manifest uses this shape:
 {
   "project": "DimensionToTsuLovers_cn",
   "latest_version": "1.5.0",
-  "release_url": "https://github.com/julixian/MyVisualNovelTranslPatch",
+  "release_url": "https://github.com/julixian/MyVisualNovelTransPatchesMeta",
   "message": "No newer patch is currently available."
 }
 ```
