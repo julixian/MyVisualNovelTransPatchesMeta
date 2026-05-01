@@ -1,6 +1,6 @@
 {
   "project": "DimensionToTsuLovers_cn",
-  "latest_version": "1.5.1",
+  "latest_version": "2.0.0",
   "release_url": "https://www.moyu.moe/patch/6381/resource",
-  "message": "v1.5.1 测试。"
+  "message": "v1.6: 修复使用 Magpie 时开启 AlwaysTopMost 也无法显示 SubWindow 的 bug。"
 }
