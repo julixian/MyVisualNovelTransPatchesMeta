@@ -2,5 +2,5 @@
   "project": "lapla_cn",
   "latest_version": "0.0.1",
   "release_url": "",
-  "message": ""
+  "message": "v0.0.2: 修复人名和选项字体，更新人名表，补充章节标题和ui文本汉化，修复语音存储中出现 \\n 的 bug"
 }
