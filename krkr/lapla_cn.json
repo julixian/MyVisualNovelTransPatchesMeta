@@ -1,6 +1,6 @@
 {
-  "project": "lapla_cn",
-  "latest_version": "0.0.2",
+  "project": "【拯救失足少女汉化组】初见亦是重逢",
+  "latest_version": "0.1.0",
   "release_url": "",
-  "message": "v0.0.2: 修复人名和选项字体，更新人名表，补充章节标题和ui文本汉化，修复语音存储中出现 \\n 的 bug"
+  "message": "v0.1.0: 补充修正ui汉化。bgmtitle裁剪。選択肢->选项。修正文本。\n\nv0.0.2: 修复人名和选项字体，更新人名表，补充章节标题和ui文本汉化，修复语音存储中出现 \\n 的 bug"
 }
