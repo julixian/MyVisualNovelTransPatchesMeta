@@ -3,10 +3,8 @@
   "latest_version": "1.9.0",
   "release_url": "https://www.moyu.moe/resource/8852",
   "messages": [
-    "v2.0.0: 整合了xm486 && Hatsune的部分ui修图",
-    "v1.9.3: 修复了部分 windows on arm 机器汉化失效的问题。为 steamos 环境符号链接问题增加了提示。",
-    "v1.9.2: 一点无关紧要的小优化。",
-    "v1.9.1: 修复部分电脑循环启动界面的问题。在检测到 windows on arm 环境时关闭不适配的自动转区以避免无响应。",
+    "v2.0.0: 整合了xm486 && Hatsune的部分ui修图。",
+    "v1.9.3: 修复了部分 windows on arm 机器汉化失效的问题。为 steamos 环境符号链接问题增加了提示。\nv1.9.2: 一点无关紧要的小优化。\nv1.9.1: 修复部分电脑循环启动界面的问题。在检测到 windows on arm 环境时关闭不适配的自动转区以避免无响应。",
     "v1.9: 修复 gemini 翻译版本中的几处注音问题，游戏译名更新为『超次元恋人』。\nPS: 本次更新会造成 gemini 翻译版本的存档不兼容，如果不想弹出更新提示可以在 .ini 中将 Advanced-PatchUpdateCheck 改为 False。",
     "v1.8: 修复水仙线自我安慰时的多余人名问题和**DIMENSION TRAVERSE**中对『华淡』的称呼问题。",
     "v1.7: 修复 v1.6 中再次出现的中文路径 bug。",
