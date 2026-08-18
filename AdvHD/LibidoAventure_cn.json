@@ -3,7 +3,7 @@
   "latest_version": "1.1.0",
   "release_url": "https://www.moyu.moe/resource/9677",
   "messages": [
-    "v1.1.0: 修复部分环境中的字体问题",
-    "v1.0.1: 修复一处程序上的 bug"
+    "v1.1.0: 修复部分环境中的字体问题。",
+    "v1.0.1: 修复一处程序上的 bug。"
   ]
 }
