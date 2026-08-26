@@ -1,8 +1,9 @@
 {
   "project": "Pricolle_cn",
-  "latest_version": "0.0.4",
+  "latest_version": "0.0.5",
   "release_url": "https://pan.baidu.com/s/1xWvKiMxa1ehG5cL7uO9wUg?pwd=apei",
   "messages": [
-    "v0.0.4: 测试版初版。"
+    "v0.0.4: 测试版初版。",
+    "v0.0.5:\nA05-937: Viva Non Non; 把一些「」内注释类文本移到「」外; グランビーチ -> 格兰海滩。"
   ]
 }
