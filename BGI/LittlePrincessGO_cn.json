@@ -1,6 +1,8 @@
 {
   "project": "Little Princess GO！",
-  "latest_version": "1.0.0",
+  "latest_version": "1.1.0",
   "release_url": "https://www.moyu.moe/resource/11435",
-  "messages": []
+  "messages": [
+    "v1.1: 修复原程序的4Mib脚本大小限制导致的报错。"
+  ]
 }
